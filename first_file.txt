@@ -1,0 +1,10 @@
+Commands use to upload repository in GitHub
+
+first create repository in GitHub
+
+then clone it
+
+git clone <repository URL>
+git add .
+git commit -m "anything you want to write"
+git push
